@@ -1,5 +1,5 @@
 /* Class: TicTacToe
- * Author: [FINISH ME]
+ * Author: Steven Parrill
  * Description: A program that implements the game Tic-Tac-Toe
  */
 
@@ -10,7 +10,6 @@ using namespace std;
 
 int main() {
 
-    // FINISH ME
     TicTacToe game;
 
     game.initializeBoard();
